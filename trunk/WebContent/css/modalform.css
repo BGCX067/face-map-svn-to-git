@@ -1,0 +1,66 @@
+
+
+/*  modal Form Styling */
+#modalform {
+	background-color: #E0F8F7;
+}
+
+legend {
+	color: #1589FF;
+}
+
+#modalform #error ul {
+	padding-left: 0px;
+	line-height: 20px;
+}
+
+#modalform #error span {
+	color: green;
+	padding: 5px 0 5px 0;
+	position: absolute;
+	top: 60px;
+	right: 10px;
+	width: 150px;
+}
+
+#modalform #error ul li {
+	color: #BF0B0B;
+	font-weight: normal;
+}
+
+h2#modalh2 {
+	font-size: 18px;
+	color: #1589FF;
+	margin: 0 0 10px 0;
+	font-weight: normal;
+	padding-bottom: 10px;
+	border-bottom: 1px dotted #ccc;
+}
+
+#modalform fieldset {
+	border: none;
+}
+
+#modalform #formleft {
+	float: left;
+}
+
+#modalform #error {
+	float: right;
+}
+
+#modalform .button {
+	background: #eded;
+	color: #666;
+	border: 1px solid #ccc;
+	padding: 5px 20px 5px 20px;
+	outline: none;
+}
+
+#modalform {
+	color: #666;
+}
+
+.clear {
+	clear: both;
+}
